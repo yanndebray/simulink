@@ -1,0 +1,10 @@
+{
+	"servers": {
+		"my-matlab-mcp-server": {
+			"type": "stdio",
+			"command": "C:\\Users\\ydebray\\Downloads\\matlab-mcp-core-server-win64.exe",
+			"args": []
+		}
+	},
+	"inputs": []
+}
